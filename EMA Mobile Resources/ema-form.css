@@ -8,7 +8,7 @@ body, input, textarea, select {
 
 form {
   /* Nicer shading and sizing */
-  background-color: #eee;
+  background-color: #66aa;
   padding: 0.5rem;
   /* Use border-box sizing to set width ignoring padding/border */
   box-sizing: border-box;
